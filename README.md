@@ -265,6 +265,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
+- [DevOpsKit vLLM Hardware Profiler](https://devopskit.tools/tools/vllm-gpu-hardware-profiler) - 100% client-side calculator for model weights, GQA KV cache VRAM allocation, tensor parallelism, and cloud GPU cost breakeven. [#opensource](https://github.com/haseeb0505/devopskit)
 
 ## Agents
 
